@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Blog Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Blog Website about New Trends in the Tech Industry",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://latrellandrei.github.io/BlogWebsite/",
+    "source": "https://github.com/LatrellAndrei/BlogWebsite"
+  },
+  {
+    "title": "Random Quote Generator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Website about generating a random quote",
+    "skills": ["HTML", "CSS", "JS", "ReactJS"],
+    "demo": "https://latrellandrei.github.io/Random-Quote-Generator/",
+    "source": "https://github.com/LatrellAndrei/Random-Quote-Generator"
+  },
+  {
+    "title": "Grocery To-Do-List",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Website is a grocery buddy to-do-list using ReactJS",
+    "skills": ["HTML", "CSS", "JS", "ReactJS"],
+    "demo": "https://latrellandrei.github.io/grocery-todolist/",
+    "source": "https://github.com/LatrellAndrei/grocery-todolist"
+  },
+  {
+    "title": "BaguioJS",
+    "imageSrc": "projects/project.png",
+    "description": "This is a website about the City of Baguio. Using html, css, and JS",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://latrellandrei.github.io/BaguioJS/",
+    "source": "https://github.com/LatrellAndrei/BaguioJS"
+  },
+  {
+    "title": "CRUD-PHP",
+    "imageSrc": "projects/project.png",
+    "description": "This is a CRUD using PHP and Bootstrap to add a product with image",
+    "skills": ["PHP", "BootStrap", "MySQL"],
+    "demo": "https://github.com/LatrellAndrei/CRUD-PHP",
+    "source": "https://github.com/LatrellAndrei/CRUD-PHP"
+  },
+  {
+    "title": "U-SEE",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to guide the students around the university",
+    "skills": ["Java", "C#", "Blender", "Android"],
+    "demo": "https://github.com/LatrellAndrei/U-SEEAPPLICATION",
+    "source": "https://github.com/LatrellAndrei/U-SEEAPPLICATION"
+  }
+  
+  
+]

@@ -1,0 +1,20 @@
+[
+    {
+      "role": "IT Intern",
+      "organisation": "City Government of Baguio",
+      "startDate": "June, 2023",
+      "endDate": "August, 2023",
+      "experiences": ["Video and Audio Editing", "Computer Hardware Troubleshooting"],
+      "imageSrc": "history/baguio.png"
+    },
+    {
+      "role": "Work Immersion",
+      "organisation": "DICT",
+      "startDate": "Feb, 2019",
+      "endDate": "March, 2019",
+      "experiences": ["Computer Systems Servicing", "Immersion"],
+      "imageSrc": "history/dict.png"
+    }
+
+  ]
+  

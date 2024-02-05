@@ -1,0 +1,40 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JS",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "PHP",
+      "imageSrc": "skills/php.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+   
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+      {
+        "title": "Android",
+        "imageSrc": "skills/android.png"
+      },
+      {
+        "title": "C#",
+        "imageSrc": "skills/csharp.png"
+      }
+  ]
+  
